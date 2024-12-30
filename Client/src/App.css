@@ -1,0 +1,17 @@
+.Header {
+  background-color: cadetblue;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  background-color: darkslategrey;
+}
+
+.appbody {
+  margin-top: 62px;
+}
