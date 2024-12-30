@@ -67,6 +67,8 @@ VITE_BOUNCIFY_ENDPOINT=https://api.bouncify.io/v1/verify
 ### For Maintainer user
 - **POST /api/v0/maitain-users/login**:Login an existing  maintainer user.
 
+## UI example of this page:
+![Home Page](image.png)
 
 
 ## Explanation:
