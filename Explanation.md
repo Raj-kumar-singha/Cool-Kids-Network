@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-## .env For Client
+## .env For Server
 
 ```.env
 
